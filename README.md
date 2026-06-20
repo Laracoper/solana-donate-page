@@ -1,23 +1,26 @@
-# 🪙 Solana Donation Page - Junior Web Dev Project
+# 🪙 Solana Donation Page
 
 [English](#english) | [Русский](#русский)
 
 ---
 
 ## English
-A simple, SEO-optimized landing page designed by junior developers. Built inside **Ubuntu WSL** and deployed using **GitHub Pages**. 
+A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page](https://github.com)** project.
 
-### Stack:
-* HTML5 (Dual-language block layout for better SEO indexing)
-* CSS3 (Solana-styled responsive design)
-* Native JavaScript (Automated browser language detection)
+🔗 **Live Website:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git  
+
+### 💳 Donation Details:
+* **Network:** Solana (SOL)
+* **Wallet Address:** `ВАШ_АДРЕС_SOLANA`
 
 ---
 
 ## Русский
-Простой, SEO-оптимизированный лендинг, созданный начинающими разработчиками. Проект разработан внутри **Ubuntu WSL** и развернут через **GitHub Pages**.
+Простой лендинг, созданный внутри **Ubuntu WSL** для проекта **[solana-donate-page](https://github.com)**.
 
-### Стек:
-* HTML5 (Двуязычная блочная разметка для лучшей индексации ботами)
-* CSS3 (Адаптивный дизайн в стиле Solana)
-* Чистый JavaScript (Автоматическое определение языка браузера)
+🔗 **Живой сайт:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git
+
+### 💳 Реквизиты для поддержки:
+* **Сеть:** Solana (SOL)
+* **Адрес кошелька:** `DcjS12kQ5VWFekRoEsNwdgzpWK8Z6PgzQd5uJ6Zy9Zau`
+
