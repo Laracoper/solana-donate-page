@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0c0f14;
+    color: #f3f4f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    text-align: center;
+    background: #141923;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    max-width: 500px;
+    width: 90%;
+    border: 1px solid #1e293b;
+}
+h1 { color: #14f195; margin-bottom: 10px; }
+.subtitle { color: #94a3b8; font-size: 1.1rem; }
+.lang-switcher button {
+    background: #1e293b;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    margin: 0 5px 20px 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.lang-switcher button:hover { background: #14f195; color: black; }
+.wallet-card {
+    margin-top: 30px;
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px dashed #9945ff;
+}
+.address-box {
+    background: #0c0f14;
+    padding: 12px;
+    border-radius: 8px;
+    font-family: monospace;
+    font-size: 0.95rem;
+    color: #9945ff;
+    cursor: pointer;
+    word-break: break-all;
+    user-select: all;
+    transition: 0.2s;
+}
+.address-box:hover { background: #141923; color: #14f195; }
+.tooltip { font-size: 0.8rem; color: #64748b; display: block; margin-top: 8px; }

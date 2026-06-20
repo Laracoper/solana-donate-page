@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Junior Dev - Solana Donation Project</title>
+    <!-- SEO мета-теги -->
+    <meta name="description" content="A simple landing page created by junior developers to learn Web3, GitHub Pages, and accept Solana tips.">
+    <meta name="keywords" content="Solana, SOL, donation, crypto wallet, junior web developer, github pages">
+    <meta property="og:title" content="Junior Dev Solana Project">
+    <meta property="og:description" content="Learn Web3 and support a starting developer via Solana.">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="ru_RU">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Кнопки ручного переключения (на всякий случай) -->
+        <div class="lang-switcher">
+            <button id="btn-en" onclick="setLanguage('en')">EN</button>
+            <button id="btn-ru" onclick="setLanguage('ru')">RU</button>
+        </div>
+
+        <!-- АНГЛИЙСКАЯ ВЕРСИЯ -->
+        <div id="content-en" class="lang-section">
+            <h1>Hi, we are Junior Developers! 👋</h1>
+            <p class="subtitle">This is our first pet-project deployed via WSL Ubuntu and GitHub Pages.</p>
+            <p>We are exploring Web3 technologies and building SEO-optimized single-page applications.</p>
+            
+            <div class="wallet-card">
+                <h3>Support our learning with Solana (SOL)</h3>
+                <!-- Замените адрес на ваш настоящий кошелек -->
+                <div class="address-box" onclick="copyAddress()">DcjS12kQ5VWFekRoEsNwdgzpWK8Z6PgzQd5uJ6Zy9Zau</div>
+                <span class="tooltip" id="tip-en">Click to copy address</span>
+            </div>
+        </div>
+
+        <!-- РУССКАЯ ВЕРСИЯ -->
+        <div id="content-ru" class="lang-section" style="display: none;">
+            <h1>Привет, мы начинающие разработчики! 👋</h1>
+            <p class="subtitle">Это наш первый пет-проект, развернутый через WSL Ubuntu и GitHub Pages.</p>
+            <p>Мы изучаем технологии Web3 и создаем SEO-оптимизированные одностраничные приложения.</p>
+            
+            <div class="wallet-card">
+                <h3>Поддержите наше обучение в сети Solana (SOL)</h3>
+                <!-- Замените адрес на ваш настоящий кошелек -->
+                <div class="address-box" onclick="copyAddress()">DcjS12kQ5VWFekRoEsNwdgzpWK8Z6PgzQd5uJ6Zy9Zau</div>
+                <span class="tooltip" id="tip-ru">Нажмите, чтобы скопировать адрес</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
