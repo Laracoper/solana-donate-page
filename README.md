@@ -5,7 +5,7 @@
 ---
 
 ## English
-A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page](https://github.com)** project.
+A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page]https://github.com/Laracoper/solana-donate-page.git** project.
 
 🔗 **Live Website:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git  
 
@@ -16,7 +16,7 @@ A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page](htt
 ---
 
 ## Русский
-Простой лендинг, созданный внутри **Ubuntu WSL** для проекта **[solana-donate-page](https://github.com)**.
+Простой лендинг, созданный внутри **Ubuntu WSL** для проекта **[solana-donate-page]https://github.com/Laracoper/solana-donate-page.git**.
 
 🔗 **Живой сайт:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git
 
