@@ -7,7 +7,7 @@
 ## English
 A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page]https://github.com/Laracoper/solana-donate-page.git** project.
 
-🔗 **Live Website:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git  
+🔗 **Live Website:** [https://github.io]https://laracoper.github.io/solana-donate-page/ 
 
 ### 💳 Donation Details:
 * **Network:** Solana (SOL)
@@ -18,7 +18,7 @@ A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page]http
 ## Русский
 Простой лендинг, созданный внутри **Ubuntu WSL** для проекта **[solana-donate-page]https://github.com/Laracoper/solana-donate-page.git**.
 
-🔗 **Живой сайт:** [https://github.io]https://github.com/Laracoper/solana-donate-page.git
+🔗 **Живой сайт:** [https://github.io]https://laracoper.github.io/solana-donate-page/
 
 ### 💳 Реквизиты для поддержки:
 * **Сеть:** Solana (SOL)
