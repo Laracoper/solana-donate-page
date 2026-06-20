@@ -11,7 +11,7 @@ A simple landing page built in **Ubuntu WSL** for the **[solana-donate-page]http
 
 ### 💳 Donation Details:
 * **Network:** Solana (SOL)
-* **Wallet Address:** `ВАШ_АДРЕС_SOLANA`
+* **Wallet Address:** `DcjS12kQ5VWFekRoEsNwdgzpWK8Z6PgzQd5uJ6Zy9Zau`
 
 ---
 
